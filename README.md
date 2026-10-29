@@ -291,3 +291,4 @@ npm run dev
 - **Real-Time Audio Streaming**: Currently ingests transcribed voice notes; future iterations will include real-time WebRTC audio recording and live streaming transcription via Gemini Multimodal Live API.
 - **Bi-directional Slack / PagerDuty Integrations**: Direct webhooks to sync incidents with PagerDuty schedules and Slack incident war-rooms.
 - **Vector Search for Historical Outages**: Integrating MongoDB Atlas Vector Search to retrieve similar past incidents and their respective root-cause resolutions.
+# hemanthca3
